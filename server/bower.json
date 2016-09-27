@@ -1,0 +1,23 @@
+{
+  "name": "meantodos",
+  "description": "Todo backend server",
+  "main": "server.js",
+  "authors": [
+    "hiepxanh"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "meantodos"
+  ],
+  "homepage": "https://github.com/xanhtool/Project104",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
